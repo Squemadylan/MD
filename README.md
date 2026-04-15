@@ -82,7 +82,7 @@ python md_reader.py
    - 空文件检测与提示
    - 异常文件读取保护
 
-###UI升级
+### UI 升级
 
 - 全新渐变按钮设计
 - 全局圆角视觉风格
@@ -91,4 +91,4 @@ python md_reader.py
 
 ---
 
-采用 PySide6 用心打造
+Made with ❤️ using PySide6
