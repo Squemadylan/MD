@@ -1,4 +1,4 @@
-# MD阅读器 v1.4.2
+# MD阅读器
 
 一款支持多标签页的 Windows Markdown 阅读器
 
